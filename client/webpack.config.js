@@ -30,7 +30,7 @@ module.exports = () => {
         short_name: 'J.A.T.E',
         description: 'Takes notes with Javascript syntax highlighting!',
         background_color: '#225ca3',
-        theme_color: '#25ca3',
+        theme_color: "#225ca3",
         start_url: './',
         publicPath: './',
         icons: [
@@ -42,8 +42,8 @@ module.exports = () => {
         ],
       }),
       new InjectManifest({
-        swSrc: './src/sw.js',
-        swDest: 'service-worker.js',
+        swSrc: './src-sw.js',
+        swDest: 'src-sw.js',
       }),
     ],
 
