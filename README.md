@@ -34,4 +34,6 @@
   
   ## Questions
   If you have any questions, you can reach out to [ZD0341](https://github.com/ZD0341) or contact via email at zechiel97@yahoo.com.
+
+  ![Screenshot 2023-11-20 162544](https://github.com/ZD0341/Text-Editor/assets/144489565/d45d7d76-03e6-49c7-8af6-9fb8d869c4dd)
   
